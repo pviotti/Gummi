@@ -12,7 +12,7 @@ without warranty of any kind.
 Basic Installation
 ==================
 
-   First, execute `./autogetn.sh' to generate the `configure' script.
+   First, execute `./autogen.sh' to generate the `configure' script.
 You may need to modify the `AM_VERSION' variable in `autogen.sh` to
 match the automake version on your system.
 
